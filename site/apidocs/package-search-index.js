@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"pl.polsl.seatreservationweb.model"},{"l":"pl.polsl.seatreservationweb.servlets"},{"l":"pl.polsl.seatreservationweb.view"}]
